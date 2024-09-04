@@ -1,4 +1,4 @@
-# Firefigthter_truck
+# Firefighter Truck 
 
 ## Integrantes 
 - Daniel Garzon Cuasquen
